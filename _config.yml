@@ -1,7 +1,7 @@
 title: MAC Run Club
 description: Memory and Aging Center Run Club - University of California, San Francisco
 url: "https://mac-run-club.github.io"
-baseurl: "/mac_run_club"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
@@ -26,4 +26,4 @@ strava_club_url: "https://www.strava.com/clubs/macrunclub"
 google_sheet_url: "https://docs.google.com/spreadsheets/d/1h-0YTfzZxam19YEuyuiYOlhFnWGWqMlDo0fYeh16q1I/edit?gid=0#gid=0"
 
 # GitHub Pages settings
-repository: MAC-Run-Club/mac_run_club
+repository: MAC-Run-Club/MAC-Run-Club.github.io
