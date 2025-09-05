@@ -12,29 +12,21 @@ Join us for special running events, group race participation, and club celebrati
 
 ### 2025 Race Calendar
 
-- **Turkey Trot** - Golden Gate Park Thanksgiving tradition
-- **Berkeley Half Marathon** - 10K and 5K options available at [berkeleyhalfmarathon.com](https://berkeleyhalfmarathon.com/)
-- **Bay to Breakers** (May) - San Francisco's iconic race
-- **San Francisco Marathon** (July) - Full and half marathon options  
+- **[Berkeley Half Marathon](https://berkeleyhalfmarathon.com/)**  
+  **Date:** November 16  
+  **Distances:** Half Marathon, 10K, 5K
+
+- **[San Francisco Turkey Trot](https://sfturkeytrot.wixsite.com/sftt)**  
+  **Date:** November 27 (Thanksgiving)  
+  **Distances:** 5 Mile Run, 3 Mile Walk, 100m Kids Gobbler Chase
+
 
 *More events will be added as we plan them. Check back regularly!*
-
-## Training Programs
-
-### Couch to 5K
-Perfect for beginners! We offer guided training sessions to help you complete your first 5K race.
-
-### 10K & Half Marathon Prep
-Join our training programs designed to get you ready for your goal race with proper preparation and group support.
-
-### Marathon Training
-Advanced program for those ready to tackle 26.2 miles with experienced group support.
 
 ## Social Events
 
 - **Monthly coffee runs** - Run + coffee = perfect combination
 - **Seasonal celebrations** - Mark running milestones together
-- **Group training sessions** - Build fitness and friendships
 
 ---
 

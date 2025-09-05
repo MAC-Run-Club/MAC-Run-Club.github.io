@@ -8,7 +8,7 @@ description: MAC Run Club schedule and upcoming events
 
 Stay up to date with our weekly runs and upcoming events. All runs are open to MAC members and their guests.
 
-## Embedded Schedule
+## Schedule
 
 <div class="calendar-container">
     <iframe 
@@ -23,17 +23,13 @@ Stay up to date with our weekly runs and upcoming events. All runs are open to M
 ## How to Join
 
 1. **Check the schedule** above for upcoming runs
-2. **Meet at the designated location** (usually UCSF Parnassus campus)
+2. **Meet at the designated location** (usually UCSF Mission Bay - Sandler Building)
 3. **Bring water** and dress appropriately for SF weather
 4. **All paces welcome** - we never leave anyone behind!
 
 ## Regular Schedule
 
-- **Monday & Wednesday**: 7:00 AM - Morning runs (3-5 miles)
-- **Friday**: 12:00 PM - Lunch runs (2-3 miles)
-- **Saturday**: 8:00 AM - Long runs (5-10+ miles)
-
-## Weather Policy
+- **Tuesday and Thursdays**: 5:00 PM (3-6 miles)
 
 Runs happen rain or shine! We only cancel for severe weather conditions. Check our [Strava club]({{ site.strava_club_url }}) for last-minute updates.
 
